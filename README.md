@@ -10,11 +10,11 @@
 
 Um clone da tela inicial da rede social de audios que está muito em alta no momento, o Clubhouse.
 
+<p align="center">
 <img src = "https://img.shields.io/static/v1?label=license&message=MIT&color=<COLOR>&style=<STYLE>&logo=<LOGO>" /> 
 <img src = "https://img.shields.io/static/v1?label=yarn&message=v1.22.4&color=blue&style=<STYLE>&logo=<LOGO>" />
 <img src = "https://img.shields.io/static/v1?label=mobile&message=reactnative&color=7159c1&style=<STYLE>&logo=<LOGO>" />
-<img src = "https://img.shields.io/static/v1?label=server&message=nodejs&color=7159c1&style=<STYLE>&logo=<LOGO>" />
-<img src = "https://img.shields.io/static/v1?label=</>&message=Typescript&color=yellow&style=<STYLE>&logo=<LOGO>" />
+</p>
 
 <img src = "https://user-images.githubusercontent.com/50887367/88489176-26576980-cf69-11ea-8035-872ab5b3f060.png" />
 
@@ -36,7 +36,7 @@ O Clubhouse permite que pessoas se comuniquem através de chats de voz para disc
 
   - **[React Native Emoji][react-native-emoji]**
   - **[React Native Vector Icons][react-native-vector-icons]**
-  - **[Styled Components][cors]**
+  - **[Styled Components][styled-components]**
 
  
  ## 📦 Instalação
@@ -56,7 +56,17 @@ npm install || yarn
 [yarn](https://yarnpkg.com/getting-started/install)
 como gerenciador de pacotes,mas pode ser utilizado o npm.
 - **[Git][git]**
-- **[Nodejs][node]**
+- **React Native CLI**
+- **[Node][node]**
+
+
+Android:
+- **[JDK11][jdk]**
+- **[Android Studio][android-studio]**
+
+Ios:
+- **[Xcode][xcode]**
+- **[CocoaPods][cocoapods]**
 
 
 ### 🔗 Utilizando o Server
@@ -100,8 +110,17 @@ Feito com :purple_heart: por <a href="https://www.linkedin.com/in/maria-fernanda
 
 [npm]: https://www.npmjs.com/get-npm
 
+[node]: https://nodejs.org/en/
+
 [git]: https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
 
+[styled-components]: https://styled-components.com/
 
+[jdk]: https://adoptopenjdk.net/
 
+[android-studio]: https://developer.android.com/studio
+
+[xcode]: https://apps.apple.com/us/app/xcode/id497799835?mt=12
+
+[cocoapods]: https://cocoapods.org/
 
