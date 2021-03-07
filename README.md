@@ -20,15 +20,6 @@ Um clone da tela inicial da rede social de audios que está muito em alta no mom
 <img height="600" src = "https://user-images.githubusercontent.com/50887367/110225712-db221380-7ec6-11eb-96f9-7ab882dc27d5.png" />
 </div>
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#intalac-ao">Instalação</a> • 
- <a href="#comoutilizar">Como Utilizar</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
-
 </div>
 
 ## ✨ Objetivo
