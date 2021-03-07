@@ -62,7 +62,7 @@ Ios:
 - **[CocoaPods][cocoapods]**
 
 
-### 🔗 Utilizando o Server
+### 🔗 Iniciando o aplicativo
 
 ```sh
 # Abrindo o projeto no terminal:
