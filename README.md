@@ -22,7 +22,7 @@ Um clone da tela inicial da rede social de audios que está muito em alta no mom
 
 </div>
 
-## ✨ Objetivo
+## ✨ Objetivo do aplicativo
 O Clubhouse permite que pessoas se comuniquem através de chats de voz para discutir sobre diversos assuntos que quiserem. O aplicativo está disponível apenas para iphone até o momento e só permite que participe pessoas que obtiverem um convite para estar na rede.
 
 ## :notebook: Libs
