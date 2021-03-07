@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="220" src="https://user-images.githubusercontent.com/50887367/110224108-8c20b200-7eb7-11eb-95b1-98764e71346a.png">
+    <img width="100" src="https://user-images.githubusercontent.com/50887367/110224108-8c20b200-7eb7-11eb-95b1-98764e71346a.png">
 </p>
 
 <h1 align="center">UI Clone do Clubhouse🚀</h1>
