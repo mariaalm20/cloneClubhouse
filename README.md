@@ -16,7 +16,9 @@ Um clone da tela inicial da rede social de audios que está muito em alta no mom
 <img src = "https://img.shields.io/static/v1?label=mobile&message=reactnative&color=7159c1&style=<STYLE>&logo=<LOGO>" />
 </p>
 
-<img src = "https://user-images.githubusercontent.com/50887367/88489176-26576980-cf69-11ea-8035-872ab5b3f060.png" />
+<div align="center">
+<img height="600" src = "https://user-images.githubusercontent.com/50887367/110225712-db221380-7ec6-11eb-96f9-7ab882dc27d5.png" />
+</div>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
