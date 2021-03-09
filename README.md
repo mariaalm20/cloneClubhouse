@@ -8,7 +8,7 @@
 
 <div align="center">
 
-Um clone da tela inicial da rede social de audios que está muito em alta no momento, o Clubhouse.
+Um clone da tela de sala de reuniões da rede social de audios que está muito em alta no momento, o Clubhouse.
 
 <p align="center">
 <img src = "https://img.shields.io/static/v1?label=license&message=MIT&color=<COLOR>&style=<STYLE>&logo=<LOGO>" /> 
@@ -17,7 +17,7 @@ Um clone da tela inicial da rede social de audios que está muito em alta no mom
 </p>
 
 <div align="center">
-<img height="600" src = "https://user-images.githubusercontent.com/50887367/110225712-db221380-7ec6-11eb-96f9-7ab882dc27d5.png" />
+<img height="600" src = "https://user-images.githubusercontent.com/50887367/110491613-36732200-80d0-11eb-977b-c799bd115d5f.png" />
 </div>
 
 </div>
